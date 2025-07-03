@@ -20,7 +20,8 @@ I build tools that make content creation smoother and browsing smarter. When I'm
 
 ## 🚀 What I Do
 
-**Building the tools that power modern content creation:**
+**Building tools that optimize and enhance digital experiences:**
+- 🤖 **AI Optimization Tools** - Making AI more efficient and cost-effective
 - 🎥 **Streaming Applications** - Simplifying live content workflows
 - 🌐 **Browser Extensions** - Making the web more efficient and fun
 - 🛠️ **Developer Tools** - Solutions that solve real problems
@@ -87,9 +88,9 @@ dkmariolink.code();
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Dkmariolink&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dkmariolink&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkmariolink&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkmariolink&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true" />
 
 <img src="https://streak-stats.demolab.com?user=Dkmariolink&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FF6B6B&sideNums=58A6FF" />
 
@@ -98,7 +99,22 @@ dkmariolink.code();
 <div align="center">
 
 ### 📈 Contribution Activity
-[![Dkmariolink's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dkmariolink&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dkmariolink&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔒 Private Projects & Client Work
+
+<div align="center">
+
+| 🎯 Project | 🛠️ Tech Stack | 📝 Description |
+|------------|---------------|-----------------|
+| **[Compressly](https://www.compressly.io/)** | JavaScript, CSS, PostgreSQL | The first cross-platform AI token optimizer - reduces usage by 30-80% across ChatGPT, Claude, and Gemini |
+
+*🚀 Production-ready Chrome extension with full cross-platform feature parity*
 
 </div>
 
@@ -106,7 +122,7 @@ dkmariolink.code();
 
 ## 🌟 Currently Working On
 
-- 🔨 **Undisclosed VTuber Application** - Something exciting for the streaming community
+- 🎥 **VTuber Application** - Open source tool for the streaming community (coming soon!)
 - 🚀 **New Browser Extensions** - Making the web more productive
 - 📚 **Open Source Contributions** - Giving back to the community
 - 🎓 **Learning New Technologies** - Always expanding my skill set
@@ -136,7 +152,6 @@ I'm always excited to collaborate on projects that make content creation better 
 
 **💡 "Great software should feel like magic, but work like clockwork"**
 
-*Building the future of content creation, one commit at a time* ✨
 
 <img src="https://komarev.com/ghpvc/?username=Dkmariolink&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Dkmariolink?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" alt="GitHub Followers" />
