@@ -88,11 +88,9 @@ dkmariolink.code();
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Dkmariolink&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+<img src="https://privaterep-git-main-justin-wrights-projects-b0d74886.vercel.app/api?username=Dkmariolink&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkmariolink&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true" />
-
-<img src="https://streak-stats.demolab.com?user=Dkmariolink&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FF6B6B&sideNums=58A6FF" />
+<img src="https://privaterep-git-main-justin-wrights-projects-b0d74886.vercel.app/api/top-langs/?username=Dkmariolink&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 
 </div>
 
@@ -100,7 +98,7 @@ dkmariolink.code();
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dkmariolink&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" />
+<img src="https://activity-graph-git-main-justin-wrights-projects-b0d74886.vercel.app/graph?username=Dkmariolink&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" />
 
 </div>
 
@@ -152,6 +150,7 @@ I'm always excited to collaborate on projects that make content creation better 
 
 **💡 "Great software should feel like magic, but work like clockwork"**
 
+*Building the future of content creation, one commit at a time* ✨
 
 <img src="https://komarev.com/ghpvc/?username=Dkmariolink&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Dkmariolink?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" alt="GitHub Followers" />
